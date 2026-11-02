@@ -10,3 +10,6 @@ num2 = float(input("numero 2 = "))
 soma = num1 + num2
 
 print(f"A soma de {num1} com {num2} é igual {soma}")
+
+teste = "Teste do git"
+print(teste)
