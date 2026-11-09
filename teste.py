@@ -21,4 +21,3 @@ teste()
 
 teste = "Teste do git"
 print(teste)
-
